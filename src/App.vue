@@ -9,7 +9,7 @@
 </template>
 
 <script>
-import TradingVue from 'trading-vue-js'
+import TradingVue from './TradingVue.vue'
 import Data from '../data/data.json'
 
 export default {
